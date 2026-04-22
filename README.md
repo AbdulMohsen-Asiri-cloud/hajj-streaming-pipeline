@@ -112,4 +112,10 @@ Bot sends instant alerts when temperature exceeds 35°C with location, temperatu
 
 
 ## 📸 Dashboard Screenshot
+
+### Live Dashboard
+
 <img width="1374" height="480" alt="image" src="https://github.com/user-attachments/assets/7630776e-5d26-4886-b2f5-2b412a0f8508" />
+
+### Telegram Alerts
+<img width="626" height="1280" alt="image" src="https://github.com/user-attachments/assets/b484caeb-c16a-4b5c-a797-77ed4dabb237" />
